@@ -1,0 +1,13 @@
+{
+"companyName": "aaron",
+"productName": "galleryproj",
+"dataUrl": "gallery proj webgl.data.unityweb",
+"asmCodeUrl": "gallery proj webgl.asm.code.unityweb",
+"asmMemoryUrl": "gallery proj webgl.asm.memory.unityweb",
+"asmFrameworkUrl": "gallery proj webgl.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
